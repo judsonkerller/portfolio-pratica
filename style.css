@@ -288,6 +288,7 @@ header {
  color: var(--color-gray);
  border-bottom: solid 3px var(--color-purple);
  margin-bottom: 1.5rem;
+ margin-top: 1rem;
 }
 
 .conhecimento-header {
@@ -324,6 +325,7 @@ header {
 
 .projetos {
  display: flex;
+ height: 60vh;
  justify-content: space-evenly;
 }
 
